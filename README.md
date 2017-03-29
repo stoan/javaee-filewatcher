@@ -8,7 +8,7 @@ This is basically a "template" project to use as reference when you use the Watc
 
 ## How to run the sample
 
-Clone the repo https://github.com/stoan/javaee-filewatcher.git
+Clone the repo [https://github.com/stoan/javaee-filewatcher.git]
 
 With Maven 3 run: *mvn package*
 
